@@ -1,0 +1,73 @@
+*{
+  align-items: center;
+  text-align: center;
+}
+
+
+.navbar-nav{
+  margin-left: auto;
+}
+.navbar-brand{
+  padding-top: 0px;
+  padding-bottom: 0px;
+
+
+}
+
+
+
+.carousel-caption{
+  position: absolute;
+  top:150px;
+
+}
+.k.carousel-caption{
+  position: absolute;
+  top:200px;
+
+}
+.col-md-4 img
+{
+  height: 50px;
+  width: auto;
+}
+
+.col-lg-3 img {
+  height: 150px;
+  width: auto;
+
+}
+
+.col-lg-3 img:hover{
+  height: 170px;
+  width: auto;
+}
+
+span {
+  background-color: black;
+}
+
+
+hr{
+  width: 60%;
+  color:black;
+}
+
+
+.aboutus h1{
+  padding: 50px;
+}
+
+.aboutus p{
+  padding-left:   100px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+}
+
+.row{
+  padding:   50px;
+
+}
+.h{
+  padding: 20px;
+}
